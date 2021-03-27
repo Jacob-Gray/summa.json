@@ -4,13 +4,31 @@ The Summa Theologica by St Thomas Aquinas, parsed to JSON for ease of use. The s
 ## JSON Format
 All JSON can be found in the [`json` folder](https://github.com/Jacob-Gray/summa.json/tree/master/json).
 
-The Summa is divided up into 7 parts, and the JSON reflects this, dividing each part up into sections, articles, and "other". Each part follows this format:
-```
+The Summa is divided up into 7 parts, and the JSON reflects this, dividing each part up into sections, articles, and "other". Whenever the JSON refers to a part, it will use a string such as `FP`.
+
+Each part follows this format:
+```json
 {
-  title: string,
-  questions: { [id: Question] },
-  sections: { [id: Section] },
-  other: { [fileName: Page] }
+  "title": "Title string",
+  "questions": { 
+    "1": {} // {Page}
+    // The key is the ID of the question, repeat for all questions
+   },
+  "sections": { 
+    "1": {
+      "id": 1,
+      "title": "Section title",
+      "part": "FP",
+      "questions": {
+        "2": {} // {Page}
+        // The key is the ID of the question, repeat for all questions
+      }
+    }
+   },
+  "other": { 
+    "XP-NOTE": {} // {Page}
+    // The key is the filename for this page, repeat for all non-question pages in this part
+   }
 }
 ```
 

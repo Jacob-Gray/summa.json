@@ -1,0 +1,181 @@
+{
+    "id": 126,
+    "part": "SS",
+    "title": "Of Fearlessness",
+    "section": 2,
+    "outer": {
+        "question": 126,
+        "type": "outer",
+        "part": "SS",
+        "text": [
+            "We must now consider the vice of fearlessness: under which head there are two points of inquiry:",
+            "(1) Whether it is a sin to be fearless?",
+            "(2) Whether it is opposed to fortitude?"
+        ],
+        "title": [
+            "OF FEARLESSNESS (TWO ARTICLES)"
+        ]
+    },
+    "article": {
+        "1": {
+            "question": 126,
+            "type": "article",
+            "part": "SS",
+            "text": [],
+            "title": [
+                "Whether fearlessness is a sin?"
+            ],
+            "id": 1,
+            "objections": {
+                "1": {
+                    "question": 126,
+                    "type": "objection",
+                    "part": "SS",
+                    "text": [
+                        "Objection 1: It seems that fearlessness is not a sin. For that which is reckoned to the praise of a just man is not a sin. Now it is written in praise of the just man (Prov. 28:1): \"The just, bold as a lion, shall be without dread.\" Therefore it is not a sin to be without fear."
+                    ],
+                    "id": 1,
+                    "article": 1
+                },
+                "2": {
+                    "question": 126,
+                    "type": "objection",
+                    "part": "SS",
+                    "text": [
+                        "Objection 2: Further, nothing is so fearful as death, according to the Philosopher (Ethic. iii, 6). Yet one ought not to fear even death, according to Mt. 10:28, \"Fear ye not them that kill the body,\" etc., nor anything that can be inflicted by man, according to Is. 51:12, \"Who art thou, that thou shouldst be afraid of a mortal man?\" Therefore it is not a sin to be fearless."
+                    ],
+                    "id": 2,
+                    "article": 1
+                },
+                "3": {
+                    "question": 126,
+                    "type": "objection",
+                    "part": "SS",
+                    "text": [
+                        "Objection 3: Further, fear is born of love, as stated above (Question [125], Article [2]). Now it belongs to the perfection of virtue to love nothing earthly, since according to Augustine (De Civ. Dei xiv), \"the love of God to the abasement of self makes us citizens of the heavenly city.\" Therefore it is seemingly not a sin to fear nothing earthly."
+                    ],
+                    "id": 3,
+                    "article": 1
+                }
+            },
+            "replies": {
+                "1": {
+                    "question": 126,
+                    "type": "reply",
+                    "part": "SS",
+                    "text": [
+                        "Reply to Objection 1: The just man is praised for being without fear that withdraws him from good; not that he is altogether fearless, for it is written (Ecclus. 1:28): \"He that is without fear cannot be justified.\""
+                    ],
+                    "id": 1,
+                    "article": 1
+                },
+                "2": {
+                    "question": 126,
+                    "type": "reply",
+                    "part": "SS",
+                    "text": [
+                        "Reply to Objection 2: Death and whatever else can be inflicted by mortal man are not to be feared so that they make us forsake justice: but they are to be feared as hindering man in acts of virtue, either as regards himself, or as regards the progress he may cause in others. Hence it is written (Prov. 14:16): \"A wise man feareth and declineth from evil.\""
+                    ],
+                    "id": 2,
+                    "article": 1
+                },
+                "3": {
+                    "question": 126,
+                    "type": "reply",
+                    "part": "SS",
+                    "text": [
+                        "Reply to Objection 3: Temporal goods are to be despised as hindering us from loving and serving God, and on the same score they are not to be feared; wherefore it is written (Ecclus. 34:16): \"He that feareth the Lord shall tremble at nothing.\" But temporal goods are not to be despised, in so far as they are helping us instrumentally to attain those things that pertain to Divine fear and love."
+                    ],
+                    "id": 3,
+                    "article": 1
+                }
+            },
+            "counter": [
+                "On the contrary, It is said of the unjust judge (Lk. 18:2) that \"he feared not God nor regarded man.\""
+            ],
+            "body": [
+                "I answer that, Since fear is born of love, we must seemingly judge alike of love and fear. Now it is here a question of that fear whereby one dreads temporal evils, and which results from the love of temporal goods. And every man has it instilled in him by nature to love his own life and whatever is directed thereto; and to do so in due measure, that is, to love these things not as placing his end therein, but as things to be used for the sake of his last end. Hence it is contrary to the natural inclination, and therefore a sin, to fall short of loving them in due measure. Nevertheless, one never lapses entirely from this love: since what is natural cannot be wholly lost: for which reason the Apostle says (Eph. 5:29): \"No man ever hated his own flesh.\" Wherefore even those that slay themselves do so from love of their own flesh, which they desire to free from present stress. Hence it may happen that a man fears death and other temporal evils less than he ought,  for the reason that he loves them* less than he ought. [*Viz. the contrary goods. One would expect 'se' instead of 'ea.' We should then read: For the reason that he loves himself less than he ought.] But that he fear none of these things cannot result from an entire lack of love, but only from the fact that he thinks it impossible for him to be afflicted by the evils contrary to the goods he loves. This is sometimes the result of pride of soul presuming on self and despising others, according to the saying of Job 41:24,25: \"He [Vulg.: 'who'] was made to fear no one, he beholdeth every high thing\": and sometimes it happens through a defect in the reason; thus the Philosopher says (Ethic. iii, 7) that the \"Celts, through lack of intelligence, fear nothing.\" [*\"A man would deserve to be called insane and senseless if there were nothing that he feared, not even an earthquake nor a storm at sea, as is said to be the case with the Celts.\"] It is therefore evident that fearlessness is a vice, whether it result from lack of love, pride of soul, or dullness of understanding: yet the latter is excused from sin if it be invincible."
+            ]
+        },
+        "2": {
+            "question": 126,
+            "type": "article",
+            "part": "SS",
+            "text": [],
+            "title": [
+                "Whether fearlessness is opposed to fortitude?"
+            ],
+            "id": 2,
+            "objections": {
+                "1": {
+                    "question": 126,
+                    "type": "objection",
+                    "part": "SS",
+                    "text": [
+                        "Objection 1: It seems that fearlessness is not opposed to fortitude. For we judge of habits by their acts. Now no act of fortitude is hindered by a man being fearless: since if fear be removed, one is both brave to endure, and daring to attack. Therefore fearlessness is not opposed to fortitude."
+                    ],
+                    "id": 1,
+                    "article": 2
+                },
+                "2": {
+                    "question": 126,
+                    "type": "objection",
+                    "part": "SS",
+                    "text": [
+                        "Objection 2: Further, fearlessness is a vice, either through lack of due love, or on account of pride, or by reason of folly. Now lack of due love is opposed to charity, pride is contrary to humility, and folly to prudence or wisdom. Therefore the vice of fearlessness is not opposed to fortitude."
+                    ],
+                    "id": 2,
+                    "article": 2
+                },
+                "3": {
+                    "question": 126,
+                    "type": "objection",
+                    "part": "SS",
+                    "text": [
+                        "Objection 3: Further, vices are opposed to virtue and extremes to  the mean. But one mean has only one extreme on the one side. Since then fortitude has fear opposed to it on the one side and daring on the other, it seems that fearlessness is not opposed thereto."
+                    ],
+                    "id": 3,
+                    "article": 2
+                }
+            },
+            "replies": {
+                "1": {
+                    "question": 126,
+                    "type": "reply",
+                    "part": "SS",
+                    "text": [
+                        "Reply to Objection 1: The act of fortitude is to endure death without fear, and to be aggressive, not anyhow, but according to reason: this the fearless man does not do."
+                    ],
+                    "id": 1,
+                    "article": 2
+                },
+                "2": {
+                    "question": 126,
+                    "type": "reply",
+                    "part": "SS",
+                    "text": [
+                        "Reply to Objection 2: Fearlessness by its specific nature corrupts the mean of fortitude, wherefore it is opposed to fortitude directly. But in respect of its causes nothing hinders it from being opposed to other virtues."
+                    ],
+                    "id": 2,
+                    "article": 2
+                },
+                "3": {
+                    "question": 126,
+                    "type": "reply",
+                    "part": "SS",
+                    "text": [
+                        "Reply to Objection 3: The vice of daring is opposed to fortitude by excess of daring, and fearlessness by deficiency of fear. Fortitude imposes the mean on each passion. Hence there is nothing unreasonable in its having different extremes in different respects."
+                    ],
+                    "id": 3,
+                    "article": 2
+                }
+            },
+            "counter": [
+                "On the contrary, The Philosopher (Ethic. iii) reckons fearlessness to be opposed to fortitude."
+            ],
+            "body": [
+                "I answer that, As stated above (Question [123], Article [3]), fortitude is concerned about fear and daring. Now every moral virtue observes the rational mean in the matter about which it is concerned. Hence it belongs to fortitude that man should moderate his fear according to reason, namely that he should fear what he ought, and when he ought, and so forth. Now this mode of reason may be corrupted either by excess or by deficiency. Wherefore just as timidity is opposed to fortitude by excess of fear, in so far as a man fears what he ought not, and as he ought not, so too fearlessness is opposed thereto by deficiency of fear, in so far as a man fears not what he ought to fear."
+            ]
+        }
+    }
+}

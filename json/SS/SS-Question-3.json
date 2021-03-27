@@ -1,0 +1,182 @@
+{
+    "id": 3,
+    "part": "SS",
+    "title": "Of the Outward Act of Faith",
+    "outer": {
+        "question": 3,
+        "type": "outer",
+        "part": "SS",
+        "text": [
+            "We must now consider the outward act, viz. the confession of faith: under which head there are two points of inquiry:",
+            "(1) Whether confession is an act of faith?",
+            "(2) Whether confession of faith is necessary for salvation?"
+        ],
+        "title": [
+            "OF THE OUTWARD ACT OF FAITH (TWO ARTICLES)"
+        ]
+    },
+    "article": {
+        "1": {
+            "question": 3,
+            "type": "article",
+            "part": "SS",
+            "text": [],
+            "title": [
+                "Whether confession is an act of faith?"
+            ],
+            "id": 1,
+            "objections": {
+                "1": {
+                    "question": 3,
+                    "type": "objection",
+                    "part": "SS",
+                    "text": [
+                        "Objection 1: It would seem that confession is not an act of faith. For the same act does not belong to different virtues. Now confession belongs to penance of which it is a part. Therefore it is not an act of faith."
+                    ],
+                    "id": 1,
+                    "article": 1
+                },
+                "2": {
+                    "question": 3,
+                    "type": "objection",
+                    "part": "SS",
+                    "text": [
+                        "Objection 2: Further, man is sometimes deterred by fear or some kind of confusion, from confessing his faith: wherefore the Apostle (Eph. 6:19) asks for prayers that it may be granted him \"with confidence, to make known the mystery of the gospel.\" Now it belongs to fortitude, which moderates daring and fear, not to be deterred from doing good on account of confusion or fear. Therefore it seems that confession is not an act of faith, but rather of fortitude or constancy."
+                    ],
+                    "id": 2,
+                    "article": 1
+                },
+                "3": {
+                    "question": 3,
+                    "type": "objection",
+                    "part": "SS",
+                    "text": [
+                        "Objection 3: Further, just as the ardor of faith makes one confess one's faith outwardly, so does it make one do other external good works, for it is written (Gal. 5:6) that \"faith . . . worketh by charity.\" But other external works are not reckoned acts of faith. Therefore neither is confession an act of faith."
+                    ],
+                    "id": 3,
+                    "article": 1
+                }
+            },
+            "replies": {
+                "1": {
+                    "question": 3,
+                    "type": "reply",
+                    "part": "SS",
+                    "text": [
+                        "Reply to Objection 1: A threefold confession is commended by the Scriptures. One is the confession of matters of faith, and this is a proper act of faith, since it is referred to the end of faith as stated above. Another is the confession of thanksgiving or praise, and this is an act of \"latria,\" for its purpose is to give outward honor to God, which is the end of \"latria.\" The third is the confession of sins, which is ordained to the blotting out of sins, which is the end of penance, to which virtue it therefore belongs."
+                    ],
+                    "id": 1,
+                    "article": 1
+                },
+                "2": {
+                    "question": 3,
+                    "type": "reply",
+                    "part": "SS",
+                    "text": [
+                        "Reply to Objection 2: That which removes an obstacle is not a direct, but an indirect, cause, as the Philosopher proves (Phys. viii, 4). Hence fortitude which removes an obstacle to the confession of faith, viz. fear or shame, is not the proper and direct cause of confession, but an indirect cause so to speak."
+                    ],
+                    "id": 2,
+                    "article": 1
+                },
+                "3": {
+                    "question": 3,
+                    "type": "reply",
+                    "part": "SS",
+                    "text": [
+                        "Reply to Objection 3: Inward faith, with the aid of charity, causes all outward acts of virtue, by means of the other virtues, commanding, but not eliciting them; whereas it produces the act of confession as its proper act, without the help of any other virtue."
+                    ],
+                    "id": 3,
+                    "article": 1
+                }
+            },
+            "counter": [
+                "On the contrary, A gloss explains the words of 2 Thess. 1:11, \"and the work of faith in power\" as referring to \"confession which is a work proper to faith.\""
+            ],
+            "body": [
+                "I answer that, Outward actions belong properly to the virtue to whose end they are specifically referred: thus fasting is referred specifically to the end of abstinence, which is to tame the flesh, and consequently it is an act of abstinence.",
+                "Now confession of those things that are of faith is referred specifically as to its end, to that which concerns faith, according to 2 Cor. 4:13: \"Having the same spirit of faith . . . we believe, and therefore we speak also.\" For the outward utterance is intended to signify the inward thought. Wherefore, just as the inward thought of matters of faith is properly an act of faith, so too is the outward confession of them."
+            ]
+        },
+        "2": {
+            "question": 3,
+            "type": "article",
+            "part": "SS",
+            "text": [],
+            "title": [
+                "Whether confession of faith is necessary for salvation?"
+            ],
+            "id": 2,
+            "objections": {
+                "1": {
+                    "question": 3,
+                    "type": "objection",
+                    "part": "SS",
+                    "text": [
+                        "Objection 1: It would seem that confession of faith is not necessary for salvation. For, seemingly, a thing is sufficient for salvation, if it is a means of attaining the end of virtue. Now the proper end of faith is the union of the human mind with Divine truth, and this can be realized without any outward confession. Therefore confession of faith is not necessary for salvation."
+                    ],
+                    "id": 1,
+                    "article": 2
+                },
+                "2": {
+                    "question": 3,
+                    "type": "objection",
+                    "part": "SS",
+                    "text": [
+                        "Objection 2: Further, by outward confession of faith, a man reveals his faith to another man. But this is unnecessary save for those who have to instruct others in the faith. Therefore it seems that the simple folk are not bound to confess the faith."
+                    ],
+                    "id": 2,
+                    "article": 2
+                },
+                "3": {
+                    "question": 3,
+                    "type": "objection",
+                    "part": "SS",
+                    "text": [
+                        "Objection 3: Further, whatever may tend to scandalize and disturb others, is not necessary for salvation, for the Apostle says (1 Cor. 10:32): \"Be without offense to the Jews and to the gentiles and to the Church of God.\" Now confession of faith sometimes causes a disturbance among unbelievers. Therefore it is not necessary for salvation."
+                    ],
+                    "id": 3,
+                    "article": 2
+                }
+            },
+            "replies": {
+                "1": {
+                    "question": 3,
+                    "type": "reply",
+                    "part": "SS",
+                    "text": [
+                        "Reply to Objection 1: The end of faith, even as of the other virtues, must be referred to the end of charity, which is the love of God and our neighbor. Consequently when God's honor and our neighbor's good demand, man should not be contented with being united by faith to God's truth, but ought to confess his faith outwardly."
+                    ],
+                    "id": 1,
+                    "article": 2
+                },
+                "2": {
+                    "question": 3,
+                    "type": "reply",
+                    "part": "SS",
+                    "text": [
+                        "Reply to Objection 2: In cases of necessity where faith is in danger, every one is bound to proclaim his faith to others, either to give good example and encouragement to the rest of the faithful, or to check the attacks of unbelievers: but at other times it is not the duty of all the faithful to instruct others in the faith."
+                    ],
+                    "id": 2,
+                    "article": 2
+                },
+                "3": {
+                    "question": 3,
+                    "type": "reply",
+                    "part": "SS",
+                    "text": [
+                        "Reply to Objection 3: There is nothing commendable in making a public confession of one's faith, if it causes a disturbance among unbelievers, without any profit either to the faith or to the faithful. Hence Our Lord said (Mt. 7:6): \"Give not that which is holy to dogs, neither cast ye your pearls before swine . . . lest turning upon you, they tear you.\" Yet, if there is hope of profit to the faith, or if there be urgency, a man should disregard the disturbance of unbelievers, and confess his faith in public. Hence it is written (Mt. 15:12) that when the disciples had said to Our Lord that \"the Pharisee, when they heard this word, were scandalized,\" He answered: \"Let them alone, they are blind, and leaders of the blind.\""
+                    ],
+                    "id": 3,
+                    "article": 2
+                }
+            },
+            "counter": [
+                "On the contrary, The Apostle says (Rm. 10:10): \"With the heart we believe unto justice; but with the mouth, confession is made unto salvation.\""
+            ],
+            "body": [
+                "I answer that, Things that are necessary for salvation come  under the precepts of the Divine law. Now since confession of faith is something affirmative, it can only fall under an affirmative precept. Hence its necessity for salvation depends on how it falls under an affirmative precept of the Divine law. Now affirmative precepts as stated above (FS, Question [71], Article [5], ad 3; FS, Question [88], Article [1], ad 2) do not bind for always, although they are always binding; but they bind as to place and time according to other due circumstances, in respect of which human acts have to be regulated in order to be acts of virtue.",
+                "Thus then it is not necessary for salvation to confess one's faith at all times and in all places, but in certain places and at certain times, when, namely, by omitting to do so, we would deprive God of due honor, or our neighbor of a service that we ought to render him: for instance, if a man, on being asked about his faith, were to remain silent, so as to make people believe either that he is without faith, or that the faith is false, or so as to turn others away from the faith; for in such cases as these, confession of faith is necessary for salvation."
+            ]
+        }
+    }
+}

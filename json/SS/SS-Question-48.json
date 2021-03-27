@@ -1,0 +1,144 @@
+{
+    "id": 48,
+    "part": "SS",
+    "title": "Of the Parts of Prudence",
+    "section": 1,
+    "outer": {
+        "question": 48,
+        "type": "outer",
+        "part": "SS",
+        "text": [
+            "We must now consider the parts of prudence, under which head there are four points of inquiry:",
+            "(1) Which are the parts of prudence?",
+            "(2) Of its integral parts;",
+            "(3) Of its subjective parts;",
+            "(4) Of its potential parts."
+        ],
+        "title": [
+            "OF THE PARTS OF PRUDENCE (ONE ARTICLE)"
+        ]
+    },
+    "article": {
+        "1": {
+            "question": 48,
+            "type": "article",
+            "part": "SS",
+            "text": [],
+            "title": [
+                "Whether three parts of prudence are fittingly assigned?"
+            ],
+            "id": 1,
+            "objections": {
+                "1": {
+                    "question": 48,
+                    "type": "objection",
+                    "part": "SS",
+                    "text": [
+                        "Objection 1: It would seem that the parts of prudence are assigned unfittingly. Tully (De Invent. Rhet. ii, 53) assigns three parts of prudence, namely, \"memory,\" \"understanding\" and \"foresight.\" Macrobius (In Somn. Scip. i) following the opinion of Plotinus ascribes to prudence six parts, namely, \"reasoning,\" \"understanding,\" \"circumspection,\" \"foresight,\" \"docility\" and \"caution.\" Aristotle says (Ethic. vi, 9,10,11) that \"good counsel,\" \"synesis\" and \"gnome\" belong to prudence. Again under the head of prudence he mentions \"conjecture,\" \"shrewdness,\" \"sense\" and \"understanding.\" And another Greek philosopher [*Andronicus; Cf. Question [80], Objection [4]] says that ten things are connected with prudence, namely, \"good counsel,\" \"shrewdness,\" \"foresight,\" \"regnative [*Regnativa],\" \"military,\" \"political\" and \"domestic prudence,\" \"dialectics,\" \"rhetoric\" and \"physics.\" Therefore it seems that one or the other enumeration is either excessive or deficient."
+                    ],
+                    "id": 1,
+                    "article": 1
+                },
+                "2": {
+                    "question": 48,
+                    "type": "objection",
+                    "part": "SS",
+                    "text": [
+                        "Objection 2: Further, prudence is specifically distinct from science. But politics, economics, logic, rhetoric, physics are sciences. Therefore they are not parts of prudence."
+                    ],
+                    "id": 2,
+                    "article": 1
+                },
+                "3": {
+                    "question": 48,
+                    "type": "objection",
+                    "part": "SS",
+                    "text": [
+                        "Objection 3: Further, the parts do not exceed the whole. Now the intellective memory or intelligence, reason, sense and docility, belong not only to prudence but also to all the cognitive habits. Therefore they should not be set down as parts of prudence."
+                    ],
+                    "id": 3,
+                    "article": 1
+                },
+                "4": {
+                    "question": 48,
+                    "type": "objection",
+                    "part": "SS",
+                    "text": [
+                        "Objection 4: Further, just as counselling, judging and commanding are acts of the practical reason, so also is using, as stated above (FS, Question [16], Article [1]). Therefore, just as \"eubulia\" which refers to counsel, is connected with prudence, and \"synesis\" and \"gnome\" which refer to judgment, so also ought something to have been assigned corresponding to use."
+                    ],
+                    "id": 4,
+                    "article": 1
+                },
+                "5": {
+                    "question": 48,
+                    "type": "objection",
+                    "part": "SS",
+                    "text": [
+                        "Objection 5: Further, solicitude pertains to prudence, as stated above (Question [47], Article [9]). Therefore solicitude also should have been mentioned among the parts of prudence."
+                    ],
+                    "id": 5,
+                    "article": 1
+                }
+            },
+            "replies": {
+                "1": {
+                    "question": 48,
+                    "type": "reply",
+                    "part": "SS",
+                    "text": [
+                        "Reply to Objection 1: The various enumerations differ, either because different kinds of parts are assigned, or because that which is mentioned in one enumeration includes several mentioned in another enumeration. Thus Tully includes \"caution\" and \"circumspection\" under \"foresight,\" and \"reasoning,\" \"docility\" and \"shrewdness\" under \"understanding.\""
+                    ],
+                    "id": 1,
+                    "article": 1
+                },
+                "2": {
+                    "question": 48,
+                    "type": "reply",
+                    "part": "SS",
+                    "text": [
+                        "Reply to Objection 2: Here domestic and civic prudence are not to be taken as sciences, but as kinds of prudence. As to the other three, the reply may be gathered from what has been said."
+                    ],
+                    "id": 2,
+                    "article": 1
+                },
+                "3": {
+                    "question": 48,
+                    "type": "reply",
+                    "part": "SS",
+                    "text": [
+                        "Reply to Objection 3: All these things are reckoned parts of prudence, not by taking them altogether, but in so far as they are connected with things pertaining to prudence."
+                    ],
+                    "id": 3,
+                    "article": 1
+                },
+                "4": {
+                    "question": 48,
+                    "type": "reply",
+                    "part": "SS",
+                    "text": [
+                        "Reply to Objection 4: Right command and right use always go together, because the reason's command is followed by obedience on the part of the lower powers, which pertain to use."
+                    ],
+                    "id": 4,
+                    "article": 1
+                },
+                "5": {
+                    "question": 48,
+                    "type": "reply",
+                    "part": "SS",
+                    "text": [
+                        "Reply to Objection 5: Solicitude is included under foresight."
+                    ],
+                    "id": 5,
+                    "article": 1
+                }
+            },
+            "counter": [],
+            "body": [
+                "I answer that, Parts are of three kinds, namely, \"integral,\" as wall, roof, and foundations are parts of a house; \"subjective,\" as ox and lion are parts of animal; and \"potential,\" as the nutritive and sensitive powers are parts of the soul. Accordingly, parts can be assigned to a virtue in three ways. First, in likeness to integral parts, so that the things which need to concur for the perfect act of a virtue, are called the parts of that virtue. In this way, out of all the things mentioned above, eight may be taken as parts of prudence, namely, the six assigned by Macrobius; with the addition of a seventh, viz. \"memory\" mentioned by Tully; and {eustochia} or \"shrewdness\" mentioned by Aristotle. For the \"sense\" of prudence is also called \"understanding\": wherefore the Philosopher says (Ethic. vi, 11): \"Of such things one needs to have the sense, and this is understanding.\" Of these eight, five belong to prudence as a cognitive virtue, namely, \"memory,\" \"reasoning,\" \"understanding,\" \"docility\" and \"shrewdness\": while the three others belong thereto, as commanding and applying knowledge to action, namely, \"foresight,\" \"circumspection\" and \"caution.\" The reason of their difference is seen from the fact that three things may be observed in reference to knowledge. In the first place, knowledge itself, which, if it be of the past, is called \"memory,\" if of the present, whether contingent or necessary, is called \"understanding\" or \"intelligence.\" Secondly, the acquiring of knowledge, which is caused either by teaching, to which pertains \"docility,\" or by \"discovery,\" and to this belongs to {eustochia}, i.e. \"a happy conjecture,\" of which \"shrewdness\" is a part, which is a \"quick conjecture of the middle term,\" as stated in Poster. i, 9. Thirdly, the use of knowledge, in as much as we proceed from things known to knowledge or judgment of other things, and this belongs to \"reasoning.\" And the reason, in order to command aright, requires to have three conditions. First, to order that which is befitting the end, and this belongs to \"foresight\"; secondly, to attend to the circumstances of the matter in hand, and this belongs to \"circumspection\"; thirdly, to avoid obstacles, and this belongs to \"caution.\"",
+                "The subjective parts of a virtue are its various species. In this way the parts of prudence, if we take them properly, are the prudence whereby a man rules himself, and the prudence whereby a man governs a multitude, which differ specifically as stated above (Question [47], Article [11]). Again, the prudence whereby a multitude is governed, is divided into various species according to the various kinds of multitude. There is the multitude which is united together for some particular purpose; thus an army is gathered together to fight, and the prudence that governs this is called \"military.\" There is also the multitude that is united together for the whole of life; such is the multitude of a home or family, and this is ruled by \"domestic prudence\": and such again is the multitude of a city or kingdom, the ruling principle of which is \"regnative prudence\" in the ruler, and \"political prudence,\" simply so called, in the  subjects.",
+                "If, however, prudence be taken in a wide sense, as including also speculative knowledge, as stated above (Question [47], Article [2], ad 2) then its parts include \"dialectics,\" \"rhetoric\" and \"physics,\" according to three methods of prudence in the sciences. The first of these is the attaining of science by demonstration, which belongs to \"physics\" (if physics be understood to comprise all demonstrative sciences). The second method is to arrive at an opinion through probable premises, and this belongs to \"dialectics.\" The third method is to employ conjectures in order to induce a certain suspicion, or to persuade somewhat, and this belongs to \"rhetoric.\" It may be said, however, that these three belong also to prudence properly so called, since it argues sometimes from necessary premises, sometimes from probabilities, and sometimes from conjectures.",
+                "The potential parts of a virtue are the virtues connected with it, which are directed to certain secondary acts or matters, not having, as it were, the whole power of the principal virtue. In this way the parts of prudence are \"good counsel,\" which concerns counsel, \"synesis,\" which concerns judgment in matters of ordinary occurrence, and \"gnome,\" which concerns judgment in matters of exception to the law: while \"prudence\" is about the chief act, viz. that of commanding."
+            ]
+        }
+    }
+}

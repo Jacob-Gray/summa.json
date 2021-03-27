@@ -1,0 +1,468 @@
+{
+    "id": 42,
+    "part": "XP",
+    "title": "Of Matrimony As a Sacrament",
+    "outer": {
+        "question": 42,
+        "type": "outer",
+        "part": "XP",
+        "text": [
+            "We must next consider matrimony as a sacrament. Under this head there are four points of inquiry:",
+            "(1) Whether matrimony is a sacrament?",
+            "(2) Whether it ought to have been instituted before sin was committed?",
+            "(3) Whether it confers grace?",
+            "(4) Whether carnal intercourse belongs to the integrity of matrimony?"
+        ],
+        "title": [
+            "OF MATRIMONY AS A SACRAMENT (FOUR ARTICLES)"
+        ]
+    },
+    "article": {
+        "1": {
+            "question": 42,
+            "type": "article",
+            "part": "XP",
+            "text": [],
+            "title": [
+                "Whether matrimony is a sacrament?"
+            ],
+            "id": 1,
+            "objections": {
+                "1": {
+                    "question": 42,
+                    "type": "objection",
+                    "part": "XP",
+                    "text": [
+                        "Objection 1: It would seem that matrimony is not a sacrament. For every sacrament of the New Law has a form that is essential to the sacrament. But the blessing given by the priest at a wedding is not essential to matrimony. Therefore it is not a sacrament."
+                    ],
+                    "id": 1,
+                    "article": 1
+                },
+                "2": {
+                    "question": 42,
+                    "type": "objection",
+                    "part": "XP",
+                    "text": [
+                        "Objection 2: Further, a sacrament according to Hugh (De Sacram. i) is \"a material element.\" But matrimony has not a material element for its matter. Therefore it is not a sacrament."
+                    ],
+                    "id": 2,
+                    "article": 1
+                },
+                "3": {
+                    "question": 42,
+                    "type": "objection",
+                    "part": "XP",
+                    "text": [
+                        "Objection 3: Further, the sacraments derive their efficacy from Christ's Passion. But matrimony, since it has pleasure annexed to it, does not conform man to Christ's Passion, which was painful. Therefore it is not a sacrament."
+                    ],
+                    "id": 3,
+                    "article": 1
+                },
+                "4": {
+                    "question": 42,
+                    "type": "objection",
+                    "part": "XP",
+                    "text": [
+                        "Objection 4: Further, every sacrament of the New Law causes that which it signifies. Yet matrimony does not cause the union of Christ with the Church, which union it signifies. Therefore matrimony is not a sacrament."
+                    ],
+                    "id": 4,
+                    "article": 1
+                },
+                "5": {
+                    "question": 42,
+                    "type": "objection",
+                    "part": "XP",
+                    "text": [
+                        "Objection 5: Further, in the other sacraments there is something which is reality and sacrament. But this is not to be found in matrimony, since it does not imprint a character, else it would not be repeated. Therefore it is not a sacrament."
+                    ],
+                    "id": 5,
+                    "article": 1
+                }
+            },
+            "replies": {
+                "1": {
+                    "question": 42,
+                    "type": "reply",
+                    "part": "XP",
+                    "text": [
+                        "Reply to Objection 1: The words whereby the marriage consent is expressed are the form of this sacrament, and not the priest's blessing, which is a sacramental."
+                    ],
+                    "id": 1,
+                    "article": 1
+                },
+                "2": {
+                    "question": 42,
+                    "type": "reply",
+                    "part": "XP",
+                    "text": [
+                        "Reply to Objection 2: The sacrament of Matrimony, like that of Penance, is perfected by the act of the recipient. Wherefore just as Penance has no other matter than the sensible acts themselves, which take the place of the material element, so it is in Matrimony."
+                    ],
+                    "id": 2,
+                    "article": 1
+                },
+                "3": {
+                    "question": 42,
+                    "type": "reply",
+                    "part": "XP",
+                    "text": [
+                        "Reply to Objection 3: Although Matrimony is not conformed to Christ's Passion as regards pain, it is as regards charity, whereby He suffered for the Church who was to be united to Him as His spouse."
+                    ],
+                    "id": 3,
+                    "article": 1
+                },
+                "4": {
+                    "question": 42,
+                    "type": "reply",
+                    "part": "XP",
+                    "text": [
+                        "Reply to Objection 4: The union of Christ with the Church is not the reality contained in this sacrament, but is the reality signified and not contained---and no sacrament causes a reality of that kind---but it has another both contained and signified which it causes, as we shall state further on (ad 5). The Master, however (Sent. iv, D, 26), asserts that it is a non-contained reality, because he was of opinion that Matrimony has no reality contained therein."
+                    ],
+                    "id": 4,
+                    "article": 1
+                },
+                "5": {
+                    "question": 42,
+                    "type": "reply",
+                    "part": "XP",
+                    "text": [
+                        "Reply to Objection 5: In this sacrament also those three things [*Cf. TP, Question [66], Article [1]] are to be found, for the acts externally apparent are the sacrament only; the bond between husband and wife resulting from those acts is reality and sacrament; and the ultimate reality contained is the effect of this sacrament, while the non-contained reality is that which the Master assigns (Sent. iv, D, 26)."
+                    ],
+                    "id": 5,
+                    "article": 1
+                }
+            },
+            "counter": [
+                "On the contrary, It is written (Eph. 5:32): \"This is a great sacrament.\" Therefore, etc.",
+                "Further, a sacrament is the sign of a sacred thing. But such is Matrimony. Therefore, etc."
+            ],
+            "body": [
+                "I answer that, A sacrament denotes a sanctifying remedy against sin offered to man under sensible signs [*Cf. TP, Question [61], Article [1]; TP, Question [65], Article [1]]. Wherefore since this is the case in matrimony, it is reckoned among the sacraments."
+            ]
+        },
+        "2": {
+            "question": 42,
+            "type": "article",
+            "part": "XP",
+            "text": [],
+            "title": [
+                "Whether this sacrament ought to have been instituted before sin was committed?"
+            ],
+            "id": 2,
+            "objections": {
+                "1": {
+                    "question": 42,
+                    "type": "objection",
+                    "part": "XP",
+                    "text": [
+                        "Objection 1: It would seem that Matrimony ought not to have been instituted before sin. Because that which is of natural law needs not to be instituted. Now such is Matrimony, as stated above (Question [41], Article [1]). Therefore it ought not to have been instituted."
+                    ],
+                    "id": 1,
+                    "article": 2
+                },
+                "2": {
+                    "question": 42,
+                    "type": "objection",
+                    "part": "XP",
+                    "text": [
+                        "Objection 2: Further, sacraments are medicines against the disease of sin. But a medicine is not made ready except for an actual disease. Therefore it should not have been instituted before sin."
+                    ],
+                    "id": 2,
+                    "article": 2
+                },
+                "3": {
+                    "question": 42,
+                    "type": "objection",
+                    "part": "XP",
+                    "text": [
+                        "Objection 3: Further, one institution suffices for one thing. Now Matrimony was instituted also after sin, as stated in the text (Sent. iv, D, 26). Therefore it was not instituted before sin."
+                    ],
+                    "id": 3,
+                    "article": 2
+                },
+                "4": {
+                    "question": 42,
+                    "type": "objection",
+                    "part": "XP",
+                    "text": [
+                        "Objection 4: Further, the institution of a sacrament must come from God. Now before sin, the words relating to Matrimony were not definitely said by God but by Adam; the words which God uttered (Gn. 1:22), \"Increase and multiply,\" were addressed also to the brute creation where there is no marriage. Therefore Matrimony was not instituted before sin."
+                    ],
+                    "id": 4,
+                    "article": 2
+                },
+                "5": {
+                    "question": 42,
+                    "type": "objection",
+                    "part": "XP",
+                    "text": [
+                        "Objection 5: Further, Matrimony is a sacrament of the New Law. But the sacraments of the New Law took their origin from Christ. Therefore it ought not to have been instituted before sin."
+                    ],
+                    "id": 5,
+                    "article": 2
+                }
+            },
+            "replies": {
+                "1": {
+                    "question": 42,
+                    "type": "reply",
+                    "part": "XP",
+                    "text": [
+                        "Reply to Objection 1: Things which are of natural law in a general way, need to be instituted as regards their determination which is subject to variation according to various states; just as it is of natural law that evil-doers be punished, but that such and such a punishment be appointed for such and such a crime is determined by  positive law."
+                    ],
+                    "id": 1,
+                    "article": 2
+                },
+                "2": {
+                    "question": 42,
+                    "type": "reply",
+                    "part": "XP",
+                    "text": [
+                        "Reply to Objection 2: Matrimony is not only for a remedy against sin, but is chiefly for an office of nature; and thus it was instituted before sin, not as intended for a remedy."
+                    ],
+                    "id": 2,
+                    "article": 2
+                },
+                "3": {
+                    "question": 42,
+                    "type": "reply",
+                    "part": "XP",
+                    "text": [
+                        "Reply to Objection 3: There is no reason why matrimony should not have had several institutions corresponding to the various things that had to be determined in connection with marriage. Hence these various institutions are not of the same thing in the same respect."
+                    ],
+                    "id": 3,
+                    "article": 2
+                },
+                "4": {
+                    "question": 42,
+                    "type": "reply",
+                    "part": "XP",
+                    "text": [
+                        "Reply to Objection 4: Before sin matrimony was instituted by God, when He fashioned a helpmate for man out of his rib, and said to them: \"Increase and multiply.\" And although this was said also to the other animals, it was not to be fulfilled by them in the same way as by men. As to Adam's words, he uttered them inspired by God to understand that the institution of marriage was from God."
+                    ],
+                    "id": 4,
+                    "article": 2
+                },
+                "5": {
+                    "question": 42,
+                    "type": "reply",
+                    "part": "XP",
+                    "text": [
+                        "Reply to Objection 5: As was clearly stated, matrimony was not instituted before Christ as a sacrament of the New Law."
+                    ],
+                    "id": 5,
+                    "article": 2
+                }
+            },
+            "counter": [
+                "On the contrary, It is said (Mt. 19:4): \"Have ye not read that He Who made man from the beginning 'made them male and female'\"?",
+                "Further, Matrimony was instituted for the begetting of children. But the begetting of children was necessary to man before sin. Therefore it behooved Matrimony to be instituted before sin."
+            ],
+            "body": [
+                "I answer that, Nature inclines to marriage with a certain good in view, which good varies according to the different states of man, wherefore it was necessary for matrimony to be variously instituted in the various states of man in reference to that good. Consequently matrimony as directed to the begetting of children, which was necessary even when there was no sin, was instituted before sin; according as it affords a remedy for the wound of sin, it was instituted after sin at the time of the natural law; its institution belongs to the Mosaic Law as regards personal disqualifications; and it was instituted in the New Law in so far as it represents the mystery of Christ's union with the Church, and in this respect it is a sacrament of the New Law. As regards other advantages resulting from matrimony, such as the friendship and mutual services which husband and wife render one another, its institution belongs to the civil law. Since, however, a sacrament is essentially a sign and a remedy, it follows that the nature of sacrament applies to matrimony as regards the intermediate institution; that it is fittingly intended to fulfill an office of nature as regards the first institution; and. as regards the last-mentioned institution, that it is directed to fulfill an office of society."
+            ]
+        },
+        "3": {
+            "question": 42,
+            "type": "article",
+            "part": "XP",
+            "text": [],
+            "title": [
+                "Whether matrimony confers grace?"
+            ],
+            "id": 3,
+            "objections": {
+                "1": {
+                    "question": 42,
+                    "type": "objection",
+                    "part": "XP",
+                    "text": [
+                        "Objection 1: It would seem that matrimony does not confer grace. For, according to Hugh (De Sacram. i) \"the sacraments, by virtue of their sanctification, confer an invisible grace.\" But matrimony has no sanctification essential to it. Therefore grace is not conferred therein."
+                    ],
+                    "id": 1,
+                    "article": 3
+                },
+                "2": {
+                    "question": 42,
+                    "type": "objection",
+                    "part": "XP",
+                    "text": [
+                        "Objection 2: Further, every sacrament that confers grace confers it by virtue of its matter and form. Now the acts which are the matter in this sacrament are not the cause of grace (for it would be the heresy of Pelagius to assert that our acts cause grace); and the words expressive of consent are not the cause of grace, since no sanctification results from them. Therefore grace is by no means given in matrimony."
+                    ],
+                    "id": 2,
+                    "article": 3
+                },
+                "3": {
+                    "question": 42,
+                    "type": "objection",
+                    "part": "XP",
+                    "text": [
+                        "Objection 3: Further, the grace that is directed against the wound of sin is necessary to all who have that wound. Now the wound of concupiscence is to be found in all. Therefore if grace were given in matrimony against the wound of concupiscence, all men ought to contract marriage, and it would be very stupid to refrain from matrimony."
+                    ],
+                    "id": 3,
+                    "article": 3
+                },
+                "4": {
+                    "question": 42,
+                    "type": "objection",
+                    "part": "XP",
+                    "text": [
+                        "Objection 4: Further, sickness does not seek a remedy where it finds aggravation. Now concupiscence is aggravated by concupiscence, because, according to the Philosopher (Ethic. iii, 12), \"the desire of concupiscence is insatiable, and is increased by congenial actions.\" Therefore it would seem that grace is not conferred in matrimony, as a remedy for concupiscence."
+                    ],
+                    "id": 4,
+                    "article": 3
+                }
+            },
+            "replies": {
+                "1": {
+                    "question": 42,
+                    "type": "reply",
+                    "part": "XP",
+                    "text": [
+                        "Reply to Objection 1: Just as the baptismal water by virtue of its contact with Christ's body [*Cf. TP, Question [66], Article [3], ad 4] is able to \"touch the body and cleanse the heart\" [*St. Augustine, Tract. lxxx in Joan.], so is matrimony able to do so through Christ having represented it by His Passion, and not principally through any blessing of the priest."
+                    ],
+                    "id": 1,
+                    "article": 3
+                },
+                "2": {
+                    "question": 42,
+                    "type": "reply",
+                    "part": "XP",
+                    "text": [
+                        "Reply to Objection 2: Just as the water of Baptism together with the form of words results immediately not in the infusion of grace, but  in the imprinting of the character, so the outward acts and the words expressive of consent directly effect a certain tie which is the sacrament of matrimony; and this tie by virtue of its Divine institution works dispositively [*Cf. Question [18], Article [1], where St. Thomas uses the same expression; and Editor's notes at the beginning of the Supplement and on that Article] to the infusion of grace."
+                    ],
+                    "id": 2,
+                    "article": 3
+                },
+                "3": {
+                    "question": 42,
+                    "type": "reply",
+                    "part": "XP",
+                    "text": [
+                        "Reply to Objection 3: This argument would hold if no more efficacious remedy could be employed against the disease of concupiscence; but a yet more powerful remedy is found in spiritual works and mortification of the flesh by those who make no use of matrimony."
+                    ],
+                    "id": 3,
+                    "article": 3
+                },
+                "4": {
+                    "question": 42,
+                    "type": "reply",
+                    "part": "XP",
+                    "text": [
+                        "Reply to Objection 4: A remedy can be employed against concupiscence in two ways. First, on the part of concupiscence by repressing it in its root, and thus matrimony affords a remedy by the grace given therein. Secondly, on the part of its act, and this in two ways: first, by depriving the act to which concupiscence inclines of its outward shamefulness, and this is done by the marriage blessings which justify carnal concupiscence; secondly, by hindering the shameful act, which is done by the very nature of the act. because concupiscence, being satisfied by the conjugal act, does not incline so much to other wickedness. For this reason the Apostle says (1 Cor. 7:9): \"It is better to marry than to burn.\" For though the works congenial to concupiscence are in themselves of a nature to increase concupiscence, yet in so far as they are directed according to reason they repress concupiscence, because like acts result in like dispositions and habits."
+                    ],
+                    "id": 4,
+                    "article": 3
+                }
+            },
+            "counter": [
+                "On the contrary, Definition and thing defined should be convertible. Now causality of grace is included in the definition  of a sacrament. Since, then, matrimony is a sacrament, it is a cause of grace.",
+                "Further, Augustine says (De Bono Viduit. viii; Gen. ad lit. ix, 7) that \"matrimony affords a remedy to the sick.\" But it is not a remedy except in so far as it has some efficacy. Therefore it has some efficacy for the repression of concupiscence. Now concupiscence is not repressed except by grace. Therefore grace is conferred therein."
+            ],
+            "body": [
+                "I answer that, There have been three opinions on this point. For some [*Peter Lombard, Sent. iv, D, 2] said that matrimony is nowise the cause of grace, but only a sign thereof. But this cannot be maintained, for in that case it would in no respect surpass the sacraments of the Old Law. Wherefore there would be no reason for reckoning it among the sacraments of the New Law; since even in the Old Law by the very nature of the act it was able to afford a remedy to concupiscence lest the latter run riot when held in too strict restraint.",
+                "Hence others [*St. Albert Magnus, Sent. iv, D, 26] said that grace is conferred therein as regards the withdrawal from evil, because the act is excused from sin, for it would be a sin apart from matrimony. But this would be too little, since it had this also in the Old Law. And so they say that it makes man withdraw from evil, by restraining the concupiscence lest it tend to something outside the marriage blessings, but that this grace does not enable a man to do good works. But this cannot be maintained, since the same grace hinders sin and inclines to good, just as the same heat expels cold and gives heat.",
+                "Hence others [*St. Bonaventure, Sent. iv, D, 26] say that matrimony, inasmuch as it is contracted in the faith of Christ, is able to confer the grace which enables us to do those works which are required in matrimony. and this is more probable, since wherever God gives the faculty to do a thing, He gives also the helps whereby man is enabled to make becoming use of that faculty; thus it is clear that to all the soul's powers there correspond bodily members by which they can proceed to act. Therefore, since in matrimony man receives by Divine institution the faculty to use his wife for the begetting of children, he also receives the grace without which he cannot becomingly do so; just as we have said of the sacrament of orders (Question [35], Article [1]). And thus this grace which is given is the last thing contained in this sacrament."
+            ]
+        },
+        "4": {
+            "question": 42,
+            "type": "article",
+            "part": "XP",
+            "text": [],
+            "title": [
+                "Whether carnal intercourse is an integral part of this sacrament?"
+            ],
+            "id": 4,
+            "objections": {
+                "1": {
+                    "question": 42,
+                    "type": "objection",
+                    "part": "XP",
+                    "text": [
+                        "Objection 1: It would seem that carnal intercourse is an integral part of marriage. For at the very institution of marriage it was declared (Gn. 2:24): \"They shall be two in one flesh.\" Now this is not brought about save by carnal intercourse. Therefore it is an integral part of marriage."
+                    ],
+                    "id": 1,
+                    "article": 4
+                },
+                "2": {
+                    "question": 42,
+                    "type": "objection",
+                    "part": "XP",
+                    "text": [
+                        "Objection 2: Further, that which belongs to the signification of a sacrament is necessary for the sacrament, as we have stated above (Article [2]; Question [9], Article [1]). Now carnal intercourse belongs to the signification of matrimony, as stated in the text (Sent. iv, D, 26). Therefore it is an integral part of the sacrament."
+                    ],
+                    "id": 2,
+                    "article": 4
+                },
+                "3": {
+                    "question": 42,
+                    "type": "objection",
+                    "part": "XP",
+                    "text": [
+                        "Objection 3: Further, this sacrament is directed to the preservation of the species. But the species cannot be preserved without carnal intercourse. Therefore it is an integral part of the sacrament."
+                    ],
+                    "id": 3,
+                    "article": 4
+                },
+                "4": {
+                    "question": 42,
+                    "type": "objection",
+                    "part": "XP",
+                    "text": [
+                        "Objection 4: Further, Matrimony is a sacrament inasmuch as it affords a remedy against concupiscence; according to the Apostle's saying (1 Cor. 7:9): \"It is better to marry than to burn.\" But it does not afford this remedy to those who have no carnal intercourse. Therefore the same conclusion follows as before."
+                    ],
+                    "id": 4,
+                    "article": 4
+                }
+            },
+            "replies": {
+                "1": {
+                    "question": 42,
+                    "type": "reply",
+                    "part": "XP",
+                    "text": [
+                        "Reply to Objection 1: Adam expressed the integrity of marriage in regard to both perfections, because a thing is known by its operation."
+                    ],
+                    "id": 1,
+                    "article": 4
+                },
+                "2": {
+                    "question": 42,
+                    "type": "reply",
+                    "part": "XP",
+                    "text": [
+                        "Reply to Objection 2: Signification of the thing contained is necessary for the sacrament. Carnal intercourse belongs not to this signification, but to the thing not contained, as appears from what was said above (Article [1], ad 4,5)."
+                    ],
+                    "id": 2,
+                    "article": 4
+                },
+                "3": {
+                    "question": 42,
+                    "type": "reply",
+                    "part": "XP",
+                    "text": [
+                        "Reply to Objection 3: A thing does not reach its end except by its own act. Wherefore, from the fact that the end of matrimony is not attained without carnal intercourse, it follows that it belongs to the second and not to the first integrity."
+                    ],
+                    "id": 3,
+                    "article": 4
+                },
+                "4": {
+                    "question": 42,
+                    "type": "reply",
+                    "part": "XP",
+                    "text": [
+                        "Reply to Objection 4: Before carnal intercourse marriage is a remedy by virtue of the grace given therein, although not by virtue of the act, which belongs to the second integrity."
+                    ],
+                    "id": 4,
+                    "article": 4
+                }
+            },
+            "counter": [
+                "On the contrary, There was matrimony in Paradise, and yet  there was no carnal intercourse. Therefore carnal intercourse is not an integral part of matrimony.",
+                "Further, a sacrament by its very name denotes a sanctification. But matrimony is holier without carnal intercourse, according to the text (Sent. D, 26). Therefore carnal intercourse is not necessary for the sacrament."
+            ],
+            "body": [
+                "I answer that, Integrity is twofold. One regards the primal perfection consisting in the very essence of a thing; the other regards the secondary perfection consisting in operation. Since then carnal intercourse is an operation or use of marriage which gives the faculty for that intercourse, it follows, that carnal intercourse belongs to the latter, and not to the former integrity of marriage [*Cf. TP, Question [29], Article [2] ]."
+            ]
+        }
+    }
+}

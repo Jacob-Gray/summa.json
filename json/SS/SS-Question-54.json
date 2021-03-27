@@ -1,0 +1,283 @@
+{
+    "id": 54,
+    "part": "SS",
+    "title": "Of Negligence",
+    "section": 1,
+    "outer": {
+        "question": 54,
+        "type": "outer",
+        "part": "SS",
+        "text": [
+            "We must now consider negligence, under which head there are three points of inquiry:",
+            "(1) Whether negligence is a special sin?",
+            "(2) To which virtue is it opposed?",
+            "(3) Whether negligence is a mortal sin?"
+        ],
+        "title": [
+            "OF NEGLIGENCE (THREE ARTICLES)"
+        ]
+    },
+    "article": {
+        "1": {
+            "question": 54,
+            "type": "article",
+            "part": "SS",
+            "text": [],
+            "title": [
+                "Whether negligence is a special sin?"
+            ],
+            "id": 1,
+            "objections": {
+                "1": {
+                    "question": 54,
+                    "type": "objection",
+                    "part": "SS",
+                    "text": [
+                        "Objection 1: It would seem that negligence is not a special sin. For negligence is opposed to diligence. But diligence is required in every virtue. Therefore negligence is not a special sin."
+                    ],
+                    "id": 1,
+                    "article": 1
+                },
+                "2": {
+                    "question": 54,
+                    "type": "objection",
+                    "part": "SS",
+                    "text": [
+                        "Objection 2: Further, that which is common to every sin is not a special sin. Now negligence is common to every sin, because he who sins neglects that which withdraws him from sin, and he who perseveres in sin neglects to be contrite for his sin. Therefore negligence is not a special sin."
+                    ],
+                    "id": 2,
+                    "article": 1
+                },
+                "3": {
+                    "question": 54,
+                    "type": "objection",
+                    "part": "SS",
+                    "text": [
+                        "Objection 3: Further, every special sin had a determinate matter. But negligence seems to have no determinate matter: since it is neither about evil or indifferent things (for no man is accused of negligence if he omit them), nor about good things, for if these be done negligently, they are no longer good. Therefore it seems that negligence is not a special vice."
+                    ],
+                    "id": 3,
+                    "article": 1
+                }
+            },
+            "replies": {
+                "1": {
+                    "question": 54,
+                    "type": "reply",
+                    "part": "SS",
+                    "text": [
+                        "Reply to Objection 1: Diligence seems to be the same as solicitude, because the more we love [diligimus] a thing the more solicitous are we about it. Hence diligence, no less than solicitude, is required for every virtue, in so far as due acts of reason are requisite for every virtue."
+                    ],
+                    "id": 1,
+                    "article": 1
+                },
+                "2": {
+                    "question": 54,
+                    "type": "reply",
+                    "part": "SS",
+                    "text": [
+                        "Reply to Objection 2: In every sin there must needs be a defect affecting an act of reason, for instance a defect in counsel or the like. Hence just as precipitation is a special sin on account of a special act of reason which is omitted, namely counsel, although it may be found in any kind of sin; so negligence is a special sin on account of the lack of a special act of reason, namely solicitude, although it is found more or less in all sins."
+                    ],
+                    "id": 2,
+                    "article": 1
+                },
+                "3": {
+                    "question": 54,
+                    "type": "reply",
+                    "part": "SS",
+                    "text": [
+                        "Reply to Objection 3: Properly speaking the matter of negligence is a good that one ought to do, not that it is a good when it is done negligently, but because on account of negligence it incurs a lack of goodness, whether a due act be entirely omitted through lack of solicitude, or some due circumstance be omitted."
+                    ],
+                    "id": 3,
+                    "article": 1
+                }
+            },
+            "counter": [
+                "On the contrary, Sins committed through negligence, are distinguished from those which are committed through contempt."
+            ],
+            "body": [
+                "I answer that, Negligence denotes lack of due solicitude. Now every lack of a due act is sinful: wherefore it is evident that negligence is a sin, and that it must needs have the character of a special sin according as solicitude is the act of a special virtue. For certain sins are special through being about a special matter, as lust is about sexual matters, while some vices are special on account of their having a special kind of act which extends to all kinds of matter, and such are all vices affecting an act of reason, since every act of reason extends to any kind of moral matter. Since then solicitude is a special act of reason, as stated above (Question [47], Article [9]), it follows that negligence, which denotes lack of solicitude, is a special sin."
+            ]
+        },
+        "2": {
+            "question": 54,
+            "type": "article",
+            "part": "SS",
+            "text": [],
+            "title": [
+                "Whether negligence is opposed to prudence?"
+            ],
+            "id": 2,
+            "objections": {
+                "1": {
+                    "question": 54,
+                    "type": "objection",
+                    "part": "SS",
+                    "text": [
+                        "Objection 1: It would seem that negligence is not opposed to prudence. For negligence seems to be the same as idleness or laziness, which belongs to sloth, according to Gregory (Moral. xxxi, 45). Now sloth is not opposed to prudence, but to charity, as stated above (Question [35], Article [3]). Therefore negligence is not opposed to prudence."
+                    ],
+                    "id": 1,
+                    "article": 2
+                },
+                "2": {
+                    "question": 54,
+                    "type": "objection",
+                    "part": "SS",
+                    "text": [
+                        "Objection 2: Further, every sin of omission seems to be due to negligence. But sins of omission are not opposed to prudence, but to the executive moral virtues. Therefore negligence is not opposed to prudence."
+                    ],
+                    "id": 2,
+                    "article": 2
+                },
+                "3": {
+                    "question": 54,
+                    "type": "objection",
+                    "part": "SS",
+                    "text": [
+                        "Objection 3: Further, imprudence relates to some act of reason. But negligence does not imply a defect of counsel, for that is \"precipitation,\" nor a defect of judgment, since that is  \"thoughtlessness,\" nor a defect of command, because that is \"inconstancy.\" Therefore negligence does not pertain to imprudence."
+                    ],
+                    "id": 3,
+                    "article": 2
+                },
+                "4": {
+                    "question": 54,
+                    "type": "objection",
+                    "part": "SS",
+                    "text": [
+                        "Objection 4: Further, it is written (Eccles. 7:19): \"He that feareth God, neglecteth nothing.\" But every sin is excluded by the opposite virtue. Therefore negligence is opposed to fear rather than to prudence."
+                    ],
+                    "id": 4,
+                    "article": 2
+                }
+            },
+            "replies": {
+                "1": {
+                    "question": 54,
+                    "type": "reply",
+                    "part": "SS",
+                    "text": [
+                        "Reply to Objection 1: Negligence is a defect in the internal act, to which choice also belongs: whereas idleness and laziness denote slowness of execution, yet so that idleness denotes slowness in setting about the execution, while laziness denotes remissness in the execution itself. Hence it is becoming that laziness should arise from sloth, which is \"an oppressive sorrow,\" i.e. hindering, the mind from action [*Cf. Question [35], Article [1]; FS, Question [35], Article [8]]."
+                    ],
+                    "id": 1,
+                    "article": 2
+                },
+                "2": {
+                    "question": 54,
+                    "type": "reply",
+                    "part": "SS",
+                    "text": [
+                        "Reply to Objection 2: Omission regards the external act, for it consists in failing to perform an act which is due. Hence it is opposed to justice, and is an effect of negligence, even as the execution of a just deed is the effect of right reason."
+                    ],
+                    "id": 2,
+                    "article": 2
+                },
+                "3": {
+                    "question": 54,
+                    "type": "reply",
+                    "part": "SS",
+                    "text": [
+                        "Reply to Objection 3: Negligence regards the act of command, which solicitude also regards. Yet the negligent man fails in regard to this act otherwise than the inconstant man: for the inconstant man fails in commanding, being hindered as it were, by something, whereas the negligent man fails through lack of a prompt will."
+                    ],
+                    "id": 3,
+                    "article": 2
+                },
+                "4": {
+                    "question": 54,
+                    "type": "reply",
+                    "part": "SS",
+                    "text": [
+                        "Reply to Objection 4: The fear of God helps us to avoid all sins, because according to Prov. 15:27, \"by the fear of the Lord everyone declineth from evil.\" Hence fear makes us avoid negligence, yet not as though negligence were directly opposed to fear, but because fear incites man to acts of reason. Wherefore also it has been stated above (FS, Question [44], Article [2]) when we were treating of the passions, that \"fear makes us take counsel.\""
+                    ],
+                    "id": 4,
+                    "article": 2
+                }
+            },
+            "counter": [
+                "On the contrary, It is written (Ecclus. 20:7): \"A babbler and a fool [imprudens] will regard no time.\" Now this is due to negligence. Therefore negligence is opposed to prudence."
+            ],
+            "body": [
+                "I answer that, Negligence is directly opposed to solicitude. Now solicitude pertains to the reason, and rectitude of solicitude to prudence. Hence, on the other hand, negligence pertains to imprudence. This appears from its very name, because, as Isidore observes (Etym. x) \"a negligent man is one who fails to choose [nec eligens]\": and the right choice of the means belongs to prudence. Therefore negligence pertains to imprudence."
+            ]
+        },
+        "3": {
+            "question": 54,
+            "type": "article",
+            "part": "SS",
+            "text": [],
+            "title": [
+                "Whether negligence can be a mortal sin?"
+            ],
+            "id": 3,
+            "objections": {
+                "1": {
+                    "question": 54,
+                    "type": "objection",
+                    "part": "SS",
+                    "text": [
+                        "Objection 1: It would seem that negligence cannot be a mortal sin. For a gloss of Gregory [*Moral. ix. 34] on Job 9:28, \"I feared all my works,\" etc. says that \"too little love of God aggravates the former,\" viz. negligence. But wherever there is mortal sin, the  love of God is done away with altogether. Therefore negligence is not a mortal sin."
+                    ],
+                    "id": 1,
+                    "article": 3
+                },
+                "2": {
+                    "question": 54,
+                    "type": "objection",
+                    "part": "SS",
+                    "text": [
+                        "Objection 2: Further, a gloss on Ecclus. 7:34, \"For thy negligences purify thyself with a few,\" says: \"Though the offering be small it cleanses the negligences of many sins.\" Now this would not be, if negligence were a mortal sin. Therefore negligence is not a mortal sin."
+                    ],
+                    "id": 2,
+                    "article": 3
+                },
+                "3": {
+                    "question": 54,
+                    "type": "objection",
+                    "part": "SS",
+                    "text": [
+                        "Objection 3: Further, under the law certain sacrifices were prescribed for mortal sins, as appears from the book of Leviticus. Yet no sacrifice was prescribed for negligence. Therefore negligence is not a mortal sin."
+                    ],
+                    "id": 3,
+                    "article": 3
+                }
+            },
+            "replies": {
+                "1": {
+                    "question": 54,
+                    "type": "reply",
+                    "part": "SS",
+                    "text": [
+                        "Reply to Objection 1: Man may be said to love God less in two ways. First through lack of the fervor of charity, and this causes the negligence that is a venial sin: secondly through lack of charity itself, in which sense we say that a man loves God less when he loves Him with a merely natural love; and this causes the negligence that is a mortal sin."
+                    ],
+                    "id": 1,
+                    "article": 3
+                },
+                "2": {
+                    "question": 54,
+                    "type": "reply",
+                    "part": "SS",
+                    "text": [
+                        "Reply to Objection 2: According to the same authority (gloss), a small offering made with a humble mind and out of pure love, cleanses man not only from venial but also from mortal sin."
+                    ],
+                    "id": 2,
+                    "article": 3
+                },
+                "3": {
+                    "question": 54,
+                    "type": "reply",
+                    "part": "SS",
+                    "text": [
+                        "Reply to Objection 3: When negligence consists in the omission of that which is necessary for salvation, it is drawn to the other more manifest genus of sin. Because those sins that consist of inward actions, are more hidden, wherefore no special sacrifices were prescribed for them in the Law, since the offering of sacrifices was a kind of public confession of sin, whereas hidden sins should not be confessed in public."
+                    ],
+                    "id": 3,
+                    "article": 3
+                }
+            },
+            "counter": [
+                "On the contrary, It is written (Prov. 19:16): \"He that neglecteth his own life [Vulg.: 'way'] shall die.\""
+            ],
+            "body": [
+                "I answer that, As stated above (Article [2], ad 3), negligence arises out of a certain remissness of the will, the result being a lack of solicitude on the part of the reason in commanding what it should command, or as it should command. Accordingly negligence may happen to be a mortal sin in two ways. First on the part of that which is omitted through negligence. If this be either an act or a circumstance necessary for salvation, it will be a mortal sin. Secondly on the part of the cause: for if the will be so remiss about Divine things, as to fall away altogether from the charity of God, such negligence is a mortal sin, and this is the case chiefly when negligence is due to contempt.",
+                "But if negligence consists in the omission of an act or circumstance that is not necessary for salvation, it is not a mortal but a venial sin, provided the negligence arise, not from contempt, but from some lack of fervor, to which venial sin is an occasional obstacle."
+            ]
+        }
+    }
+}

@@ -1,0 +1,311 @@
+{
+    "id": 7,
+    "part": "XP",
+    "title": "Of the Nature of Confession",
+    "outer": {
+        "question": 7,
+        "type": "outer",
+        "part": "XP",
+        "text": [
+            "We must now consider the nature of confession, under which head there are three points of inquiry:",
+            "(1) Whether Augustine fittingly defines confession?",
+            "(2) Whether confession is an act of virtue?",
+            "(3) Whether confession is an act of the virtue of penance?"
+        ],
+        "title": [
+            "OF THE NATURE OF CONFESSION (THREE ARTICLES)"
+        ]
+    },
+    "article": {
+        "1": {
+            "question": 7,
+            "type": "article",
+            "part": "XP",
+            "text": [],
+            "title": [
+                "Whether Augustine fittingly defines confession?"
+            ],
+            "id": 1,
+            "objections": {
+                "1": {
+                    "question": 7,
+                    "type": "objection",
+                    "part": "XP",
+                    "text": [
+                        "Objection 1: It would seem that Augustine defines confession unfittingly, when he says (Super Ps. 21) that confession \"lays bare the hidden disease by the hope of pardon.\" For the disease against which confession is ordained, is sin. Now sin is sometimes manifest. Therefore it should not be said that confession is the remedy for a \"hidden\" disease."
+                    ],
+                    "id": 1,
+                    "article": 1
+                },
+                "2": {
+                    "question": 7,
+                    "type": "objection",
+                    "part": "XP",
+                    "text": [
+                        "Objection 2: Further, the beginning of penance is fear. But confession is a part of Penance. Therefore fear rather than \"hope\" should be set down as the cause of confession."
+                    ],
+                    "id": 2,
+                    "article": 1
+                },
+                "3": {
+                    "question": 7,
+                    "type": "objection",
+                    "part": "XP",
+                    "text": [
+                        "Objection 3: Further, that which is placed under a seal, is not laid bare, but closed up. But the sin which is confessed is placed under the seal of confession. Therefore sin is not laid bare in confession, but closed up."
+                    ],
+                    "id": 3,
+                    "article": 1
+                },
+                "4": {
+                    "question": 7,
+                    "type": "objection",
+                    "part": "XP",
+                    "text": [
+                        "Objection 4: Further, other definitions are to be found differing from the above. For Gregory says (Hom. xl in Evang.) that confession is \"the uncovering of sins, and the opening of the wound.\" Others say that \"confession is a legal declaration of our sins in the presence of a priest.\" Others define it thus: \"Confession is the sinner's sacramental self-accusation through shame for what he has done, which through the keys of the Church makes satisfaction for his sins, and binds him to perform the penance imposed on him.\" Therefore it seems that the definition in question is insufficient, since it does not include all that these include."
+                    ],
+                    "id": 4,
+                    "article": 1
+                }
+            },
+            "replies": {
+                "1": {
+                    "question": 7,
+                    "type": "reply",
+                    "part": "XP",
+                    "text": [
+                        "Reply to Objection 1: Although the priest, as a man, may sometimes have knowledge of the penitent's sin, yet he does not know it as a vicar of Christ (even as a judge sometimes knows a thing, as a man, of which he is ignorant, as a judge), and in this respect it is made known to him by confession. or we may reply that although the external act may be in the open, yet the internal act, which is the cause of the external act, is hidden; so that it needs to be revealed by confession."
+                    ],
+                    "id": 1,
+                    "article": 1
+                },
+                "2": {
+                    "question": 7,
+                    "type": "reply",
+                    "part": "XP",
+                    "text": [
+                        "Reply to Objection 2: Confession presupposes charity, which gives us life, as stated in the text (Sent. iv, D, 17). Now it is in contrition that charity is given; while servile fear, which is void of hope, is previous to charity: yet he that has charity is moved more by hope than by fear. Hence hope rather than fear is set down as the cause of confession."
+                    ],
+                    "id": 2,
+                    "article": 1
+                },
+                "3": {
+                    "question": 7,
+                    "type": "reply",
+                    "part": "XP",
+                    "text": [
+                        "Reply to Objection 3: In every confession sin is laid bare to the priest, and closed to others by the seal of confession."
+                    ],
+                    "id": 3,
+                    "article": 1
+                },
+                "4": {
+                    "question": 7,
+                    "type": "reply",
+                    "part": "XP",
+                    "text": [
+                        "Reply to Objection 4: It is not necessary that every definition should include everything connected with the thing defined: and for this reason we find some definitions or descriptions that indicate one cause, and some that indicate another."
+                    ],
+                    "id": 4,
+                    "article": 1
+                }
+            },
+            "counter": [],
+            "body": [
+                "I answer that, Several things offer themselves to our notice in the act of confession: first, the very substance or genus of the act, which is a kind of manifestation; secondly, the matter manifested, viz. sin; thirdly, the person to whom the manifestation is made, viz. the priest; fourthly, its cause, viz. hope of pardon; fifthly, its effect, viz. release from part of the punishment, and the obligation to pay the other part. Accordingly the first  definition, given by Augustine, indicates the substance of the act, by saying that \"it lays bare\"---the matter of confession, by saying that it is a \"hidden disease\"---its cause, which is \"the hope of pardon\"; while the other definitions include one or other of the five things aforesaid, as may be seen by anyone who considers the matter."
+            ]
+        },
+        "2": {
+            "question": 7,
+            "type": "article",
+            "part": "XP",
+            "text": [],
+            "title": [
+                "Whether confession is an act of virtue?"
+            ],
+            "id": 2,
+            "objections": {
+                "1": {
+                    "question": 7,
+                    "type": "objection",
+                    "part": "XP",
+                    "text": [
+                        "Objection 1: It would seem that confession is not an act of virtue. For every act of virtue belongs to the natural law, since \"we are naturally capable of virtue,\" as the Philosopher says (Ethic. ii, 1). But confession does not belong to the natural law. Therefore it is not an act of virtue."
+                    ],
+                    "id": 1,
+                    "article": 2
+                },
+                "2": {
+                    "question": 7,
+                    "type": "objection",
+                    "part": "XP",
+                    "text": [
+                        "Objection 2: Further, an act of virtue is more befitting one who is innocent than one who has sinned. But the confession of a sin, which is the confession of which we are speaking now, cannot be befitting an innocent man. Therefore it is not an act of virtue."
+                    ],
+                    "id": 2,
+                    "article": 2
+                },
+                "3": {
+                    "question": 7,
+                    "type": "objection",
+                    "part": "XP",
+                    "text": [
+                        "Objection 3: Further, the grace which is in the sacraments differs somewhat from the grace which is in the virtues and gifts. But confession is part of a sacrament. Therefore it is not an act of virtue."
+                    ],
+                    "id": 3,
+                    "article": 2
+                }
+            },
+            "replies": {
+                "1": {
+                    "question": 7,
+                    "type": "reply",
+                    "part": "XP",
+                    "text": [
+                        "Reply to Objection 1: Natural reason, in a general way, inclines a man to make confession in the proper way, to confess as he ought, what he ought, and when he ought, and in this way confession belongs to the natural law. But it belongs to the Divine law to determine the circumstances, when, how, what, and to whom, with regard to the confession of which we are speaking now. Accordingly it is evident that the natural law inclines a man to confession, by means of the Divine law, which determines the circumstances, as is the case with all matters belonging to the positive law."
+                    ],
+                    "id": 1,
+                    "article": 2
+                },
+                "2": {
+                    "question": 7,
+                    "type": "reply",
+                    "part": "XP",
+                    "text": [
+                        "Reply to Objection 2: Although an innocent man may have the habit of the virtue whose object is a sin already committed, he has not the act, so long as he remains innocent. Wherefore the confession of sins, of which confession we are speaking now, is not befitting an innocent man, though it is an act of virtue."
+                    ],
+                    "id": 2,
+                    "article": 2
+                },
+                "3": {
+                    "question": 7,
+                    "type": "reply",
+                    "part": "XP",
+                    "text": [
+                        "Reply to Objection 3: Though the grace of the sacraments differs from the grace of the virtues, they are not contrary but disparate; hence there is nothing to prevent that which is an act of virtue, in so far as it proceeds from the free-will quickened by grace, from being a sacrament, or part of a sacrament, in so far as it is ordained as a remedy for sin."
+                    ],
+                    "id": 3,
+                    "article": 2
+                }
+            },
+            "counter": [
+                "On the contrary, The precepts of the law are about acts of virtue. But confession comes under a precept. Therefore it is an act of virtue.",
+                "Further, we do not merit except by acts of virtue. But confession is meritorious, for \"it opens the gate of heaven,\" as the Master says (Sent. iv, D, 17). Therefore it seems that it is an act of virtue."
+            ],
+            "body": [
+                "I answer that, As stated above (FS, Question [18], Articles [6],7; SS, Question [80]; SS, Question [85], Article [3]; SS, Question [109], Article [3]), for an act to belong to a virtue it suffices that it be of such a nature as to imply some condition belonging to virtue. Now, although confession does not include everything that is required for virtue, yet its very name implies the manifestation of that which a man has on his conscience: for thus his lips and heart agree. For if a man professes with his lips what he does not hold in his heart, it is not a confession but a fiction. Now to express in words what one has in one's thoughts is a condition of virtue; and, consequently, confession is a good thing generically, and is an act of virtue: yet it can be done badly, if it be devoid of other due circumstances."
+            ]
+        },
+        "3": {
+            "question": 7,
+            "type": "article",
+            "part": "XP",
+            "text": [],
+            "title": [
+                "Whether confession is an act of the virtue of penance?"
+            ],
+            "id": 3,
+            "objections": {
+                "1": {
+                    "question": 7,
+                    "type": "objection",
+                    "part": "XP",
+                    "text": [
+                        "Objection 1: It would seem that confession is not an act of the virtue of penance. For an act belongs to the virtue which is its cause. Now the cause of confession is the hope of pardon, as appears from the definition given above (Article [1]). Therefore it seems that it is an act of hope and not of penance."
+                    ],
+                    "id": 1,
+                    "article": 3
+                },
+                "2": {
+                    "question": 7,
+                    "type": "objection",
+                    "part": "XP",
+                    "text": [
+                        "Objection 2: Further, shame is a part of temperance. But confession arises from shame, as appears in the definition given above (Article [1], Objection [4]). Therefore it is an act of temperance and not of penance."
+                    ],
+                    "id": 2,
+                    "article": 3
+                },
+                "3": {
+                    "question": 7,
+                    "type": "objection",
+                    "part": "XP",
+                    "text": [
+                        "Objection 3: Further, the act of penance leans on Divine mercy. But confession leans rather on Divine wisdom, by reason of the truth which is required in it. Therefore it is not an act of penance."
+                    ],
+                    "id": 3,
+                    "article": 3
+                },
+                "4": {
+                    "question": 7,
+                    "type": "objection",
+                    "part": "XP",
+                    "text": [
+                        "Objection 4: Further, we are moved to penance by the article of the Creed which is about the Judgment, on account of fear, which is the origin of penance. But we are moved to confession by the article which is about life everlasting, because it arises from hope of pardon. Therefore it is not an act of penance."
+                    ],
+                    "id": 4,
+                    "article": 3
+                },
+                "5": {
+                    "question": 7,
+                    "type": "objection",
+                    "part": "XP",
+                    "text": [
+                        "Objection 5: Further, it belongs to the virtue of truth that a man shows himself to be what he is. But this is what a man does when he goes to confession. Therefore confession is an act of that virtue which is called truth, and not of penance."
+                    ],
+                    "id": 5,
+                    "article": 3
+                }
+            },
+            "replies": {
+                "1": {
+                    "question": 7,
+                    "type": "reply",
+                    "part": "XP",
+                    "text": [
+                        "Reply to Objection 1: Hope is the cause of confession, not as eliciting but as commanding."
+                    ],
+                    "id": 1,
+                    "article": 3
+                },
+                "2": {
+                    "question": 7,
+                    "type": "reply",
+                    "part": "XP",
+                    "text": [
+                        "Reply to Objection 2: In that definition shame is not mentioned as the cause of confession, since it is more of a nature to hinder the act of confession, but rather as the joint cause of delivery from punishment (because shame is in itself a punishment), since also the keys of the Church are the joint cause with confession, to the same effect."
+                    ],
+                    "id": 2,
+                    "article": 3
+                },
+                "3": {
+                    "question": 7,
+                    "type": "reply",
+                    "part": "XP",
+                    "text": [
+                        "Reply to Objection 3: By a certain adaptation the parts of Penance can be ascribed to three Personal Attributes, so that contrition may correspond to mercy or goodness, by reason of its being sorrow for evil---confession to wisdom, by reason of its being a manifestation of the truth---and satisfaction to power, on account of the labor it entails. And since contrition is the first part of Penance, and  renders the other parts efficacious, for this reason the same is to be said of Penance as a whole, as of contrition."
+                    ],
+                    "id": 3,
+                    "article": 3
+                },
+                "4": {
+                    "question": 7,
+                    "type": "reply",
+                    "part": "XP",
+                    "text": [
+                        "Reply to Objection 4: Since confession results from hope rather than from fear, as stated above (Article [1], ad 2), it is based on the article about eternal life which hope looks to, rather than on the article about the Judgment, which fear considers; although penance, in its aspect of contrition, is the opposite.",
+                        "The Reply to the Fifth Objection is to be gathered from what has been said."
+                    ],
+                    "id": 4,
+                    "article": 3
+                }
+            },
+            "counter": [
+                "On the contrary, Penance is ordained for the destruction of sin. Now confession is ordained to this also. Therefore it is an act of penance."
+            ],
+            "body": [
+                "I answer that, It must be observed with regard to virtues, that when a special reason of goodness or difficulty is added over and above the object of a virtue, there is need of a special virtue: thus the expenditure of large sums is the object of magnificence, although the ordinary kind of average expenditure and gifts belongs to liberality, as appears from Ethic. ii, 7; iv, 1. The same applies to the confession of truth, which, although it belongs to the virtue of truth absolutely, yet, on account of the additional reason of goodness, begins to belong to another kind of virtue. Hence the Philosopher says (Ethic. iv, 7) that a confession made in a court of justice belongs to the virtue of justice rather than to truth. In like manner the confession of God's favors in praise of God, belongs not to truth, but to religion: and so too the confession of sins, in order to receive pardon for them, is not the elicited act of the virtue of truth, as some say, but of the virtue of penance. It may, however, be the commanded act of many virtues, in so far as the act of confession can be directed to the end of many virtues."
+            ]
+        }
+    }
+}

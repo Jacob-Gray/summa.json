@@ -1,0 +1,3 @@
+[submodule "summa-to-json"]
+	path = summa-to-json
+	url = git@github.com:Jacob-Gray/summa-to-json.git

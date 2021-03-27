@@ -7,11 +7,11 @@ All JSON can be found in the [`json` folder](https://github.com/Jacob-Gray/summa
 The Summa is divided up into 7 parts, and the JSON reflects this, dividing each part up into sections, articles, and "other". Whenever the JSON refers to a part, it will use a string such as `FP`.
 
 Each part follows this format:
-```json
+```js
 {
   "title": "Title string",
   "questions": { 
-    "1": {} // {Page}
+    "1": Page,
     // The key is the ID of the question, repeat for all questions
    },
   "sections": { 
@@ -20,13 +20,13 @@ Each part follows this format:
       "title": "Section title",
       "part": "FP",
       "questions": {
-        "2": {} // {Page}
+        "2": Page
         // The key is the ID of the question, repeat for all questions
       }
     }
    },
   "other": { 
-    "XP-NOTE": {} // {Page}
+    "XP-NOTE": Page
     // The key is the filename for this page, repeat for all non-question pages in this part
    }
 }
